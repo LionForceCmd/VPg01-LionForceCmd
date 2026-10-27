@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+openai
+pydantic
+python-dotenv
